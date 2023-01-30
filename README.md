@@ -8,7 +8,7 @@ npm init -y
 
 2. Use the following commands to install required dependencies:
 
-npm i --save-dev webpack webpack-cli webpack-dev-server babel-loader @babel/preset-env @babel/core @babel/plugin-transform-runtime @babel/preset-react @babel/eslint-parser @babel/runtime html-webpack-plugin
+npm i --save-dev webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader @babel/preset-env @babel/core @babel/plugin-transform-runtime @babel/preset-react @babel/eslint-parser @babel/runtime html-webpack-plugin
 
 npm i react react-dom
 
